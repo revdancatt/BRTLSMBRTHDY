@@ -1,0 +1,22 @@
+{
+  "name": "brtlsmbrthdy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revdancatt/BRTLSMBRTHDY.git"
+  },
+  "author": "revdancatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revdancatt/BRTLSMBRTHDY/issues"
+  },
+  "homepage": "https://github.com/revdancatt/BRTLSMBRTHDY#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
