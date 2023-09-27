@@ -5,7 +5,7 @@ Print size is square.
 ## Keypresses
 
 'h' - toggle high resolution  
-t - toggle paper texture off  
+'t' - toggle paper texture off  
 's' - save PNG file  
 
 ## Printing
